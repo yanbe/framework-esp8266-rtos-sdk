@@ -1,0 +1,10 @@
+{
+  "framework-esp8266-rtos-sdk": [
+    {
+      "sha1": "a7ad22253b7eb063342e35f7b0adc5c41dba981d",
+      "system": "*", 
+      "url": "https://github.com/yanbe/framework-esp8266-rtos-sdk/raw/master/ESP8266_RTOS_SDK-1.5.0-beta.tar.gz",
+      "version": "1.5.0-beta"
+    } 
+  ]
+}
