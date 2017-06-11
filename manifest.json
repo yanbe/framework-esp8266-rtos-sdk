@@ -2,9 +2,15 @@
   "framework-esp8266-rtos-sdk": [
     {
       "sha1": "a7ad22253b7eb063342e35f7b0adc5c41dba981d",
-      "system": "*", 
+      "system": "*",
       "url": "https://github.com/yanbe/framework-esp8266-rtos-sdk/raw/master/ESP8266_RTOS_SDK-1.5.0-beta.tar.gz",
       "version": "1.5.0-beta"
-    } 
+    },
+    {
+      "sha1": "fd89874dd5966275e0dc5d799c103b39d3f08bf2",
+      "system": "*",
+      "url": "https://github.com/yanbe/framework-esp8266-rtos-sdk/raw/master/ESP8266_RTOS_SDK-1.5.0-beta.2.tar.gz",
+      "version": "1.5.0-beta.2"
+    }
   ]
 }
