@@ -3,5 +3,5 @@
   "name": "framework-esp8266-rtos-sdk",
   "system": "*",
   "url": "https://github.com/espressif/ESP8266_RTOS_SDK",
-  "version": "1.5.0-beta.3"
+  "version": "1.5.0-beta.4"
 }
